@@ -135,3 +135,9 @@ The entire process of this path of rendering HTML, CSS, and JavaScript in a way 
 
 ## Conclusion
 So we have understood the basics of how the browser renders HTML, CSS, and JavaScript.
+
+## References
+* https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10/
+* https://www.youtube.com/watch?v=0IsQqJ7pwhw&t=626s
+* https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969
+* https://www.ques10.com/p/19744/what-are-the-major-components-of-a-web-browser-dra/
